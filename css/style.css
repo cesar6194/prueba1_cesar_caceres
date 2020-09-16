@@ -22,3 +22,12 @@ justify-content: space-between;
 border: 15px;
 color: white;
 }
+
+.caja4{
+
+}
+
+.caja5{
+    display: flex;
+    justify-content: space-between;
+}
