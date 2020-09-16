@@ -1,6 +1,6 @@
 body{
     font-family: arial;
-    font-size: 10px;
+    font-size: 18px;
 text-align: center;
 }
 
@@ -12,5 +12,10 @@ text-align: center;
 
 
 .caja2{
+    background-color: gray;
+    align-items: center;
+}
+
+.caja3{
     background-color: gray;
 }
