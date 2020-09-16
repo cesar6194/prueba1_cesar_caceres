@@ -1,6 +1,6 @@
 body{
     font-family: arial;
-    font-size: 18px;
+    font-size: 15px;
 text-align: center;
 }
 
@@ -16,6 +16,9 @@ text-align: center;
     align-items: center;
 }
 
-.caja3{
-    background-color: gray;
+.ping{
+background: pink;
+justify-content: space-between;
+border: 15px;
+color: white;
 }
